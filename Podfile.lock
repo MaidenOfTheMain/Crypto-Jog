@@ -1,0 +1,24 @@
+PODS:
+  - BitcoinKit (1.1.0)
+  - KeychainAccess (4.1.0)
+  - Timepiece (1.3.1)
+
+DEPENDENCIES:
+  - BitcoinKit (~> 1.1.0)
+  - KeychainAccess
+  - Timepiece
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - BitcoinKit
+    - KeychainAccess
+    - Timepiece
+
+SPEC CHECKSUMS:
+  BitcoinKit: a8c198d2a57caf64dc43271901f8c5a2309aced2
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  Timepiece: c0760ec0e545697d86b80424dcd2b4d5ef66cf51
+
+PODFILE CHECKSUM: 470ce5cca21c6022a2c9ebae94a26597861b114f
+
+COCOAPODS: 1.8.4
